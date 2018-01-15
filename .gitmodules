@@ -1,0 +1,6 @@
+[submodule "socket"]
+	path = socket
+	url = https://github.com/ReneNyffenegger/Socket.cpp
+[submodule "base64"]
+	path = base64
+	url = https://github.com/ReneNyffenegger/cpp-base64
