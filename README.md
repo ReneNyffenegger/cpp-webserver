@@ -6,3 +6,9 @@ A simple webserver for Windows
     git clone https://github.com/ReneNyffenegger/cpp-webserver webserver
     cd webserver
     git submodule update --init --recursive
+
+## Compiling & Running the Webserver
+
+The suppliead `compile.mingw.bat` should compile the sources into `WebServer.exe`.
+
+This executable, when started, listens on port 8080 (`http://localhost:8080`).
