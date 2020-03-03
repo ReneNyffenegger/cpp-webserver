@@ -9,7 +9,7 @@ A simple webserver for Windows
 
 ## Compiling & Running the Webserver
 
-The suppliead `compile.mingw.bat` should compile the sources into `WebServer.exe`.
+The supplied `compile.mingw.bat` should compile the sources into `WebServer.exe`.
 
 This executable, when started, listens on port 8080 (`http://localhost:8080`).
 
